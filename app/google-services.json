@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422685297102",
+    "project_id": "group-meal-a88ba",
+    "storage_bucket": "group-meal-a88ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422685297102:android:ca1a63a8f739c0f881039f",
+        "android_client_info": {
+          "package_name": "com.homework.groupmeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkP5QWW0L0lS7R5AFtG0c7CXbFOhiFyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
